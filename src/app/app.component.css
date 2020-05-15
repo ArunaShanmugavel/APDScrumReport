@@ -1,7 +1,8 @@
-.dashboard {
-    width: 100%;
-    background-color: rgb(46, 240, 133);
-    color: white;
-    padding: 6%;
-    text-align: center;
+.scrumreport{
+    background-color: rgb(225, 225, 225);
+    width :48%;
+    float:right;
+    height:140px;
+    padding: 3%;
+    position :relative;
 }
